@@ -11,6 +11,7 @@
     {"name":"Obj_ycol","order":5,"path":"objects/Obj_ycol/Obj_ycol.yy",},
     {"name":"rm_lvl2","order":2,"path":"rooms/rm_lvl2/rm_lvl2.yy",},
     {"name":"rm_lvl3","order":1,"path":"rooms/rm_lvl3/rm_lvl3.yy",},
+    {"name":"rm_lvl4","order":3,"path":"rooms/rm_lvl4/rm_lvl4.yy",},
     {"name":"Script1","order":1,"path":"scripts/Script1/Script1.yy",},
     {"name":"Spr_m_idle","order":1,"path":"sprites/Spr_m_idle/Spr_m_idle.yy",},
     {"name":"Spr_m_run","order":3,"path":"sprites/Spr_m_run/Spr_m_run.yy",},
